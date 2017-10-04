@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bla Bla Crade</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_text">Rechercher</string>
+    <string name="depare">Départ</string>
+    <string name="oùilva">Destination</string>
+    <string name="quan">Date</string>
+    <string name="search_itinerary">Recherche un itinéraire</string>
+    <string name="form_error">Merci de renseigner le départ et la destination:)</string>
+</resources>
